@@ -1,4 +1,6 @@
 # My First Hello World
 
-This is the place where artistic meets technical
-[*Style and Fashion*] (www.elisarestea.com/)
+Looking for something?
+[*Search with style*] (https://www.google.com)
+
+by me
